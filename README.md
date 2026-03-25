@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-Profissional com experiência em Inside Sales, atendimento ao cliente e área administrativa, com atuação em clínicas e operações de atendimento.
+Profissional com experiência em Ciências de dados, Inside Sales, atendimento ao cliente e área administrativa, com atuação em clínicas e operações de atendimento.
 
 Tenho foco em:
 
@@ -87,6 +87,10 @@ Atuação com foco em vendas internas, relacionamento com leads e condução do 
 
 ## 🚀 Habilidades
 
+- SQL
+- BI
+- Copywriting
+- GIT
 - Inside Sales  
 - Atendimento ao Cliente  
 - Prospecção de Leads  
