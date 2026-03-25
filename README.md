@@ -1,3 +1,9 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejr110497&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejr110497&layout=compact&theme=gotham)
+
+
+
 # 🦇 André Junior | Inside Sales & Atendimento Comercial
 
 > Transformando atendimento em resultados e oportunidades em vendas.
@@ -90,15 +96,6 @@ Atuação com foco em vendas internas, relacionamento com leads e condução do 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejr110497&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejr110497&layout=compact&theme=gotham)
-
-
-
-## 📊 Projetos
 
 ## 📊 Projetos e Atuação Comercial
 
