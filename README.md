@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andrejr110497&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejr110497&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrejr110497&layout=compact&theme=tokyonight)
 
 
 
@@ -99,7 +99,6 @@ Atuação com foco em vendas internas, relacionamento com leads e condução do 
 - Organização administrativa  
 
 ---
-
 
 ## 📊 Projetos e Atuação Comercial
 
